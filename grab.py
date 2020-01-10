@@ -1,8 +1,7 @@
 #!/usr/bin/env python
-__author__ = 'toly'
+__author__ = 'ATS'
 """
-    Python script (work only in Mac OS) for grabbing books
-    from Amazon Kindle, Google Play and other books services
+    Python script for scanning and recognizing ebooks.
 """
 
 import os
