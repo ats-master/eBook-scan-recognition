@@ -1,13 +1,9 @@
 books_grabbing
 ==============
 
-Python script for grabbing (and optional recognize) books from Amazon, Google Play, etc.
+Python script for grabbing (and optional recognize) ebooks (bookshelf, google play, etc.)
 
-P.S. Now, script work only on Mac OS.
-
-## How to use
-
-[http://www.youtube.com/watch?v=BUBLhS6gu6E](http://www.youtube.com/watch?v=BUBLhS6gu6E)
+Currently, script works only on Mac OS.
 
 ## Install requirements
 
@@ -15,7 +11,7 @@ P.S. Now, script work only on Mac OS.
     $ brew install tesseract
     $ pip install pyobjc-core
     $ pip install pyobjc
-    $ pip install pymouse
+    $ pip install pyuserinput
 
 ## Usage
 
