@@ -1,7 +1,7 @@
 eBook Scan and Recognition
 ==============
 
-Python script for grabbing (and optional recognize) ebooks (bookshelf, google play, etc.)
+Python script for scanning (and optional recognizing) ebooks (bookshelf, google play, etc.)
 
 Currently, script works only on Mac OS.
 
