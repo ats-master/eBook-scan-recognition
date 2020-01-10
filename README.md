@@ -1,4 +1,4 @@
-books_grabbing
+eBook Scan and Recognition
 ==============
 
 Python script for grabbing (and optional recognize) ebooks (bookshelf, google play, etc.)
